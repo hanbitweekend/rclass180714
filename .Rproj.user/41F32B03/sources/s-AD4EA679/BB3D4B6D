@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531540701001.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "793346406",
+    "id" : "BB3D4B6D",
+    "lastKnownWriteTime" : 1531547127,
+    "last_content_update" : 1531547127327,
+    "path" : "C:/R/project180714/RPS.R",
+    "project_path" : "RPS.R",
+    "properties" : {
+        "cursorPosition" : "16,20",
+        "scrollLine" : "10",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
